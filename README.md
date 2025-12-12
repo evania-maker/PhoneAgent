@@ -1,6 +1,6 @@
 # Phone Agent Android APP
 
-通过无障碍服务（AccessibilityService）模拟用户操作，无需 ADB 连接。应用集成了多种 AI 服务商支持，能够智能理解屏幕内容并自动执行任务。
+An Android app that simulates user operations via AccessibilityService. It integrates multiple AI service providers to intelligently understand screen content and automatically execute tasks.
 
 ## 📱 功能特性
 
